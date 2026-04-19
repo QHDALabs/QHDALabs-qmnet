@@ -106,6 +106,6 @@ Includes a multi-qubit CCZ bridge test for validating nontrivial gate interactio
 # Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/QHDALabs-qmnet.git
+git clone https://github.com/QHDALabs/QHDALabs-qmnet.git
 cd QHDALabs-qmnet
 pip install -r requirements.txt
