@@ -1,3 +1,4 @@
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
 # QHDALabs-qmnet
 
 ## Quantum Relational Network with Page-Wootters Formalism
